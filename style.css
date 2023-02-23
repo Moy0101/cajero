@@ -1,0 +1,68 @@
+/*primer paginas  para ingresar*/
+body{
+    background-color: #227495;
+}
+.Encabezado{
+  text-align: center; 
+  background-color: #61D0B5;  
+  font-family:'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  
+}
+
+.identificacion{
+    display: flex;
+    justify-content:space-around;
+    margin: 8%;
+}
+
+.nom_bre{
+    height: 45px; 
+}
+
+
+
+.Btn-ingresar{
+ border-radius: 18px;
+  
+}
+
+.logo_bank{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/*Botones para sonsulta segunda pagina */
+
+.opciones{
+    display: flex;
+    justify-content:space-around;
+}
+
+.consul{
+    border-radius: 18px;
+    width: 15%;
+    background-color: rgb(6, 15, 81);
+    color: #f6f8f7;
+}
+
+.ingresar{
+    border-radius: 18px;
+    width: 15%;
+    background-color: rgb(6, 15, 81);
+    color: #f6f8f7;
+}
+
+.retirar{
+    border-radius: 18px;
+    width: 15%;
+    background-color: rgb(6, 15, 81);
+    color: #f6f8f7;
+}
+.monto{
+    text-align: left; 
+   
+  font-family:'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+
+}
